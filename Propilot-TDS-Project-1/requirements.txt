@@ -1,0 +1,12 @@
+python-dotenv
+beautifulsoup4
+numpy
+python-dateutil
+docstring-parser
+httpx
+scikit-learn
+pydantic
+fastapi
+uvicorn
+requests
+openai
